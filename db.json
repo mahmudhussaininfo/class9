@@ -1,0 +1,58 @@
+
+{
+    "students" : [
+        {
+            "id" : 1,
+            "name" : "Mahmud",
+            "age" : 20
+        },
+        {
+            "id" : 2,
+            "name" : "kuddus",
+            "age" : 22
+        },
+        {
+            "id" : 3,
+            "name" : "bilkis",
+            "age" : 15
+        },
+        {
+            "id" : 4,
+            "name" : "Rahima",
+            "age" : 18
+        },
+        {
+            "id" : 5,
+            "name" : "Somsu",
+            "age" : 21
+        }
+    ],
+
+    "teachers" : [
+        {
+            "id" : 1,
+            "name" : "Mr. Ashraful",
+            "age" : 30
+        },
+        {
+            "id" : 2,
+            "name" : "Jillur Rahman",
+            "age" : 35
+        },
+        {
+            "id" : 3,
+            "name" : "Zakir Rahman",
+            "age" : 26
+        },
+        {
+            "id" : 4,
+            "name" : "Tanvir",
+            "age" : 19
+        },
+        {
+            "id" : 5,
+            "name" : "Akash",
+            "age" : 21
+        }
+    ]
+}
